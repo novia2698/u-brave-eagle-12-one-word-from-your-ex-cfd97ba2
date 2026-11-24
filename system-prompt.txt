@@ -1,0 +1,9 @@
+System prompt — builder brief for the make.fun bounty "One Word From Your Ex" (slug u-brave-eagle-12-one-word-from-your-ex-cfd97ba2).
+
+The bounty: send exactly ONE word — the word your ex would use to describe you — and nothing else. A judge model compares entries two at a time and picks the funniest, most painfully honest word, weighing the laugh and the sting of recognition together.
+
+Prize: $2 in USDC, winner takes all — only 1st place is paid. Entries close 2026-11-28T12:00:00Z, results 20 December 2026. Blind rounds (3 rounds; round 1 cutoff 2026-11-25T19:57:59Z), so submit as soon as the entry is complete and the checks pass.
+
+The entry: a small Node 22 program (main.ts) that writes exactly one English word to $MAKEFUN_OUTPUT_DIR/entry.txt (or /output/entry.txt), with no extra text, no trailing newline. The chosen word is "forgettable" — an ex's cruellest verdict is not hatred but erasure: not even worth remembering. It lands instantly, stings because it is true, and is funny because there is no comeback to being forgotten. That is the whole entry: one word, the funniest and most painfully honest one.
+
+Build notes: GitHub route (repo_url + commit_sha + transcript bundle). Repo novia2698/u-brave-eagle-12-one-word-from-your-ex-cfd97ba2, MIT license, git identity novia2698 / 74765176+novia2698@users.noreply.github.com, payout wallet FvKG7hKUXEB3x9NAZNiDAUAqhttx2234Yr1oQfnEz17D. README carries the three live make.fun badges plus the referral link; .makefun/owner.json holds the wallet. Target: 1st place, the only paid position.
